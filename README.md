@@ -1,4 +1,4 @@
-<img  class="welcome-sign" src="https://i.ibb.co/02f9q80/welcome-sign.png"/>
+<!-- <img  class="welcome-sign" src="https://i.ibb.co/02f9q80/welcome-sign.png"/> -->
 <p align="center"><span class="wave">👋</span>Hello stranger, welcome to my GitHub profile</p>
 <br>
 
@@ -52,7 +52,7 @@
 
 
 
-<style>
+<!-- <style>
     .wave {
   animation-name: wave-animation;  /* name of @keyframes element below */
   animation-duration: .75s;  /* wave speed */
@@ -85,4 +85,4 @@ p {
   75% { transform: rotate( 12deg ) }
   100% { transform: rotate( 0deg ) }
 }
-</style>
+</style> -->
