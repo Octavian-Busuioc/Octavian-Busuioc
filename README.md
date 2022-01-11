@@ -4,11 +4,10 @@
 </p>
 
 
-<b>What I'm doin' these days:</b>
+<b><h3>What I'm doin' these days:</b></h3>
 
 ## 2021
 
----
 
 <ul>
   <li>👨‍💻Currently following a backend training course at Atelierele ILBAH.Learning the basics in PHP, MySQL</li>
@@ -17,13 +16,14 @@
 
 ## 2020
 
----
 
 <ul>
   <li>🎓Got my bachelor's degree from Facultatea de Inginerie a Instalațiilor(UTCB)</li>
 </ul>
 
-### Currently learning and improving my skills on the following languages and tools:
+---
+
+<b><h3>Currently learning and improving my skills on the following languages and tools:</h3></b>
 
 <p align="center"><b>Front-end</b></p>
 
@@ -65,6 +65,7 @@
 
 
 <p align="center"><b>Raster graphics editor</b></p>
+
 <br>
 <p align="center">
 <img alt="gimp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gimp/gimp-original.svg">
@@ -72,13 +73,11 @@
 </p>
 <br>
 
-<b>My github Stats:</b>
-
 ---
+
+<b><h3>My github Stats:</b></h3>
 
 
 <img align="left" alt="Octavian-Busuioc Github Stats" src="https://github-readme-stats.vercel.app/api?username=Octavian-Busuioc&show_icons=true&hide_border=true&border_radius=15&theme=onedark"/>
 
 <img align="left" alt="Octavian-Busuioc Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octavian-Busuioc&layout=compact&theme=onedark&hide_border=true">
-
-
