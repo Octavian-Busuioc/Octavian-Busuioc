@@ -1,9 +1,10 @@
-<!-- <img  class="welcome-sign" src="https://i.ibb.co/02f9q80/welcome-sign.png"/> -->
-<p align="center"><span class="wave">👋</span>Hello stranger, welcome to my GitHub profile</p>
-<br>
+<p align="center">
+<img  src="https://i.ibb.co/02f9q80/welcome-sign.png" width="200px">
+<p align="center"><span class="wave">👋</span><b>Hello stranger, welcome to my GitHub profile</b></p>
+</p>
 
 
-## What I'm doin' these days:
+<b>What I'm doin' these days:</b>
 
 ## 2021
 
@@ -52,37 +53,4 @@
 
 
 
-<!-- <style>
-    .wave {
-  animation-name: wave-animation;  /* name of @keyframes element below */
-  animation-duration: .75s;  /* wave speed */
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
-  transform-origin: 70% 70%;  /* pivot from bottom-left palm */
-  display: inline-block;
-  font-size: 1.5rem;
-}
 
-.welcome-sign {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-p {
-  margin-top: -100px;
-}
-
-.wave:hover {
-  animation-play-state: running; /* play animation on mouse hover */
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0deg ) }
-  25% { transform: rotate( -10deg ) }
-  75% { transform: rotate( 12deg ) }
-  100% { transform: rotate( 0deg ) }
-}
-</style> -->
