@@ -77,7 +77,6 @@
 
 <b><h3>My github Stats:</b></h3>
 
+![Octavian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octavian-Busuioc&show_icons=true&theme=synthwave)
 
-<img align="left" alt="Octavian-Busuioc Github Stats" src="https://github-readme-stats.vercel.app/api?username=Octavian-Busuioc&show_icons=true&hide_border=true&border_radius=15&theme=onedark"/>
-
-<img align="left" alt="Octavian-Busuioc Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octavian-Busuioc&layout=compact&theme=onedark&hide_border=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavian-Busuioc&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
