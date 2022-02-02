@@ -59,8 +59,6 @@
 
 
 <p align="center"><b>Database</b></p>
-
-<p align="center"><b>SQL databases</b></p>
 <br>
 <p align="center">
 <img  alt="mysql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
