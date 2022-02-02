@@ -6,11 +6,16 @@
 
 <b><h3>What I'm doin' these days:</b></h3>
 
+
+## 2022
+   <ul>
+      <li>👨‍💻Finished a backend training course at Atelierele ILBAH.Learned the basics of PHP, MySQL</li>
+   </ul>
+
+
 ## 2021
-
-
 <ul>
-  <li>👨‍💻Currently following a backend training course at Atelierele ILBAH.Learning the basics in PHP, MySQL</li>
+  
   <li>👨‍💻Finished a frontend training course at Atelierele ILBAH.Learned the basics of HTML5, CSS3,Bootstrap and JS</li>
 </ul>
 
