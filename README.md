@@ -14,7 +14,7 @@
 ## 2023
 
    <ul>
-      <li>👨‍💻Currently studding & making projects for a web development course at IT School. <br> skills: HTML 5, CSS 3, Bootstrap, JavaScript ES6, Supabase, React</li>
+      <li>👨‍💻Currently studying & making projects for a web development course at IT School. <br> skills: HTML 5, CSS 3, Bootstrap, JavaScript ES6, Supabase, React</li>
    </ul>
 
 ## 2022
