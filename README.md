@@ -2,7 +2,7 @@
 <img  src="https://i.ibb.co/Bwxc3tX/Removal-488.png" width="200px">
 <p align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px" height="25"><b>Hello stranger, welcome to my GitHub profile. <br>I’m interested in web programming</b></p></p>
 
-## You can also find me here👇🏼:
+<b><h3>You can also find me here👇🏼:</h3></b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/octavian-busuioc-6883b5216/)
 [![freeCodeCamp Badge](https://img.shields.io/badge/-freeCodeCamp-3b5998?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/OctavianBusuioc)
