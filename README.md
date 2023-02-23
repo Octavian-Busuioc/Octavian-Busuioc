@@ -1,26 +1,36 @@
 <p align="center">
 <img  src="https://i.ibb.co/Bwxc3tX/Removal-488.png" width="200px">
-<p align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40"><b>Hello stranger, welcome to my GitHub profile</b></p>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px" height="25"><b>Hello stranger, welcome to my GitHub profile. <br>I’m interested in web programming</b></p></p>
+
+# You can also find me here👇🏼:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/octavian-busuioc-6883b5216/)
+[![freeCodeCamp Badge](https://img.shields.io/badge/-freeCodeCamp-3b5998?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/OctavianBusuioc)
+[![CodeSandbox Badge](https://img.shields.io/badge/-CodeSandbox-0e76?style=flat-square&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/Octavian-Busuioc)
 
 
-<b><h3>What I'm doin' these days:</b></h3>
+# 🤓What I'm doin' these days: 
 
+## 2023
 
-## 2022
    <ul>
-      <li>👨‍💻Finished a backend training course at Atelierele ILBAH.Learned the basics of PHP, MySQL</li>
+      <li>👨‍💻Currently studding & making projects for a web development course at IT School. <br> skills: HTML 5, CSS 3, Bootstrap, JavaScript ES6, Supabase, React</li>
    </ul>
 
+## 2022
+
+   <ul>
+      <li>👨‍💻I have completed a backend training course at Atelierele ILBAH. <br>Learned the basics of PHP, MySQL, Laravel</li>
+   </ul>
 
 ## 2021
+
 <ul>
   
-  <li>👨‍💻Finished a frontend training course at Atelierele ILBAH.Learned the basics of HTML5, CSS3,Bootstrap and JS</li>
+  <li>👨‍💻I have completed  a frontend training course at Atelierele ILBAH. <br>Learned the basics of HTML, CSS, Bootstrap and JS</li>
 </ul>
 
 ## 2020
-
 
 <ul>
   <li>🎓Got my bachelor's degree from Facultatea de Inginerie a Instalațiilor(UTCB)</li>
@@ -30,56 +40,33 @@
 
 <b><h3>Currently learning and improving my skills on the following languages and tools:</h3></b>
 
-<p align="center"><b>Front-end</b></p>
-
-<p align="center"><b>Libraries, languages, frameworks and styling stack</b></p>
-<br>
-<p align="center">
-<img  alt="html5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img  alt="css3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img  alt="sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img  alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img alt="jquery" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg"/>
-<br>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySql](https://img.shields.io/badge/mysql-%23D42029.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%23009639.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Xampp](https://img.shields.io/badge/xampp-%23E34F26.svg?style=for-the-badge&logo=xampp&logoColor=white) ![laragon](https://img.shields.io/badge/laragon-%231572B6.svg?style=for-the-badge&logo=laragon&logoColor=white) ![git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white) ![figma](https://img.shields.io/badge/figma-%2331A8FF.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p align="center"><b>Back-end</b></p>
+# 📊 GitHub Stats:
 
-<p align="center"><b>Environments, languages</b></p>
-<br>
-<p align="center">
-<img  alt="php" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img  alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img  alt="npm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg">
-<img  alt="nodejs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
-<br>
-</p>
+![Octavian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octavian-Busuioc&show_icons=true&theme=synthwave&hide_border=true)
 
+![Octavian's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Octavian-Busuioc&theme=synthwave&hide_border=true)
 
-<p align="center"><b>Database</b></p>
-<br>
-<p align="center">
-<img  alt="mysql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img  alt="json" width="30px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-1821327-1543939.png">
-<br>
-</p>
-
-
-<p align="center"><b>Raster graphics editor</b></p>
-
-<br>
-<p align="center">
-<img alt="gimp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gimp/gimp-original.svg">
-<br>
-</p>
-<br>
+[![Octavian's top Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavian-Busuioc&theme=synthwave&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<b><h3>My github Stats:</b></h3>
+## 🏆 GitHub Trophies
+![Octavian's trophies](https://github-profile-trophy.vercel.app/?username=Octavian-Busuioc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Octavian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octavian-Busuioc&show_icons=true&theme=synthwave)
+# Talking about Personal Stuff:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavian-Busuioc&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🚀 &nbsp; I'm seeking junior developer jobs | interships.
+-  🛠 &nbsp; I’m currently developing my skills in modern JavaScript ES6.
+ - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/Octavian-Busuioc?tab=repositories).
+
+# My Absolute Favorites:
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading tech blogs whenever possible.
+- 🍕 &nbsp; tech events & job fairs.
+
+### Show some ❤️ by starring some of the repositories!
+
